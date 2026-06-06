@@ -1,0 +1,6 @@
+Engine: Godot 4
+Language: C#
+Architecture Target: ECS
+Prototype Strategy:
+- сначала простой RTS-прототип
+- затем переход на полноценную ECS-архитектуру
