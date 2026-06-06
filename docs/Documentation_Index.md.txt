@@ -1,0 +1,29 @@
+# Empire of People Documentation Index
+
+## Core Documents
+
+- Master Project Bible v2
+- GDD v3
+- TDD v2
+- Decisions Log v2
+
+## Design Documents
+
+- AI Design
+- Diplomacy Design
+- Resource Design
+- Border Design
+- Unit Design
+- Technology Tree
+- World Generation Design
+
+## Status
+
+Approved:
+- Project Bible
+- GDD
+- TDD
+
+In Progress:
+- Unit Design
+- Technology Tree
